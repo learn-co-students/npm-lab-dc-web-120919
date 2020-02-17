@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "package.json",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanb113/npm-lab-dc-web-120919.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "sean",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/seanb113/npm-lab-dc-web-120919/issues"
+  },
+  "homepage": "https://github.com/seanb113/npm-lab-dc-web-120919#readme"
+}
